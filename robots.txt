@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xnlemon.github.io/Blog-Publii/sitemap.xml
