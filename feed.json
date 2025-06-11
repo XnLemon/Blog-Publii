@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blog.xnlemon.top/test.html",
+            "url": "https://blog.xnlemon.top/test.html",
+            "title": "Review.",
+            "summary": "在最前面 我要向过去的我道歉 我没能走出困境导致现在重新再来。 第一年的我对这个领域充满好奇 跟随一位学长的脚步走下了相当的路程&hellip;",
+            "content_html": "<p>在最前面 我要向过去的我道歉 我没能走出困境导致现在重新再来。</p>\n<p>第一年的我对这个领域充满好奇 跟随一位学长的脚步走下了相当的路程 但是我没有想明白 我的心态打败了我 没有学到新知识和新链子的欢喜 着重在的是爆0的痛苦与没有成果的迷茫。</p>\n<p>我承认我这一年来停滞不前 怀疑自己 直到再也提不起来劲 没有明路的我于去年的8月停止了前进 随后陷入了深渊 现在回头望 以一个旁观者的身份貌似想明白了很多事情 不再执着于某些事情的顿悟与豁然开朗 让我现在可以重新开始一切 大概还来得及</p>\n<p>很可惜我没办法再回头捡起那些让我伤心的东西 所以我现在会用一段时间来学习开发方向的知识 并在此处记录我的足迹。</p>\n<p>2025.06.11</p>",
+            "image": "https://blog.xnlemon.top/media/posts/2/BF23A6E08344A66B39B905D17D24BE95.jpg",
+            "author": {
+                "name": "XnLemon"
+            },
+            "tags": [
+                   "随笔"
+            ],
+            "date_published": "2025-06-05T17:40:03+08:00",
+            "date_modified": "2025-06-11T20:32:33+08:00"
+        },
+        {
             "id": "https://blog.xnlemon.top/a-easy-tutorial-on-linklab.html",
             "url": "https://blog.xnlemon.top/a-easy-tutorial-on-linklab.html",
             "title": "Easy Tutorial on Linklab for NJUPT-CS",
@@ -20,9 +36,10 @@
                 "name": "XnLemon"
             },
             "tags": [
+                   "tech"
             ],
             "date_published": "2025-05-27T21:21:16+08:00",
-            "date_modified": "2025-05-27T22:30:01+08:00"
+            "date_modified": "2025-06-05T17:38:58+08:00"
         }
     ]
 }
