@@ -3,12 +3,44 @@
     <title>XnLemon&#x27;s Blog</title>
     <link href="https://blog.xnlemon.top/feed.xml" rel="self" />
     <link href="https://blog.xnlemon.top" />
-    <updated>2025-06-11T20:32:33+08:00</updated>
+    <updated>2025-06-17T01:33:03+08:00</updated>
     <author>
         <name>XnLemon</name>
     </author>
     <id>https://blog.xnlemon.top</id>
 
+    <entry>
+        <title>Learning. Part 1 - CRUD</title>
+        <author>
+            <name>XnLemon</name>
+        </author>
+        <link href="https://blog.xnlemon.top/learning-part-1-crud.html"/>
+        <id>https://blog.xnlemon.top/learning-part-1-crud.html</id>
+        <media:content url="https://blog.xnlemon.top/media/posts/3/96138542c945b9121b8cb1a692d5a6cc.jpg" medium="image" />
+            <category term="随笔"/>
+            <category term="tech"/>
+
+        <updated>2025-06-17T01:21:56+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.xnlemon.top/media/posts/3/96138542c945b9121b8cb1a692d5a6cc.jpg" alt="" />
+                    由于大一养成了非常良好的搜索资料和信息，纯读文档也不嫌恶心的习惯（x 我就硬生生读了两天左右的各种文档，收获肯定是有的，但是我觉得不如跟着做一点小东西来的快，基础知识也有。而且发现 这一条路居然有好多视频可以看ToT 好爽ToT 当然了我觉得这种东西跨出的第一步应该就是一些简单的crud的项目，所以我同时看了两个，第一个就是一个简单的可以当作程序设计的那种课水上去的，那种图书馆系统（x&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.xnlemon.top/media/posts/3/96138542c945b9121b8cb1a692d5a6cc.jpg" class="type:primaryImage" alt="" /></p>
+                <p>由于大一养成了非常良好的搜索资料和信息，纯读文档也不嫌恶心的习惯（x</p>
+<p>我就硬生生读了两天左右的各种文档，收获肯定是有的，但是我觉得不如跟着做一点小东西来的快，基础知识也有。而且发现 这一条路居然有好多视频可以看ToT</p>
+<p>好爽ToT</p>
+<p>当然了我觉得这种东西跨出的第一步应该就是一些简单的crud的项目，所以我同时看了两个，第一个就是一个简单的可以当作程序设计的那种课水上去的，那种图书馆系统（x</p>
+<p>纯crud好吧 正经大果确实够味</p>
+<p>第二个就是比较大了 我也许是喜欢直接应用？准备跟着一个仿着b站做的视频平台项目进行一个springboot的实战 基础知识是会一些的 但是对于项目没有概念 应该会很麻烦 当然是慢慢推进 两头同时看看 可能我现在描述的东西还不够专业 但是基本上是稳步推进的 我大概会用一个暑假完成它（懂不懂5点睡觉阴间作息的含金量啊嗯）</p>
+<p>我在读了很多文章后感觉 个人对于生产环节的一些思考和见解是非常重要的 因为在实际开发过程中是真的要考虑需求与开发成本之类的事情 目前还对真正的项目没有认知 我希望学习以后也可以有一番属于自己的理解</p>
+<p>先这样！后续会继续补充我这第一Part的路线和成果&gt;w&lt;</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Review.</title>
         <author>
