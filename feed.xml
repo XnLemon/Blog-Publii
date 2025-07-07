@@ -3,7 +3,7 @@
     <title>XnLemon&#x27;s Blog</title>
     <link href="https://blog.xnlemon.top/feed.xml" rel="self" />
     <link href="https://blog.xnlemon.top" />
-    <updated>2025-07-07T03:32:39+08:00</updated>
+    <updated>2025-07-08T03:57:41+08:00</updated>
     <author>
         <name>XnLemon</name>
     </author>
@@ -41,6 +41,9 @@
 <p>2025.06.17</p>
 <p>放假了之后有了很多正常的时间 目前在同时推进JVM的学习和SpringBoot框架和MyBatis的应用 SQL已经接触过一部分可以手写一些语句 可以满足crud的要求 所以感觉路线还是蛮正常的？基础很重要所以会偏重于JVM的学习..吧？TwT自己一个人好难啊 对自己要求还是低了TwT 我好笨 赶紧搓出来先把这Part结束了然后继续做</p>
 <p>2025.07.07</p>
+<p>今天用Mybatis+SpringBoot+Vue3+Element Plus 搓了一个前后端基本上实现了数据库crud的小玩意 明天总结一下自己今天遇到的问题 总之收获还是挺大的嗯嗯 也是初步了解了springboot框架和前后端的交互方式吧</p>
+<p>os:我说实话感觉一堆组件开堆像写osu的谱（</p>
+<p>2025.07.08</p>
             ]]>
         </content>
     </entry>
