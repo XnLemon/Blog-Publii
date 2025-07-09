@@ -11,11 +11,27 @@
     },
     "items": [
         {
+            "id": "https://blog.xnlemon.top/problems-encountered-while-studying.html",
+            "url": "https://blog.xnlemon.top/problems-encountered-while-studying.html",
+            "title": "Problems Encountered while Studying.",
+            "summary": "Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（ 这问题真的难绷 我使用的是3.5.5版本的&hellip;",
+            "content_html": "<p class=\"msg msg--info\">Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（</p>\n<div class=\"post__toc\">\n<h3>目录</h3>\n<ul>\n<li><a href=\"#mcetoc_1ivocniv81n\">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</a></li>\n</ul>\n</div>\n<h3 id=\"mcetoc_1ivocniv81n\">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</h3>\n<p>这问题真的难绷 我使用的是3.5.5版本的 可以发现里面有个2.1.2的mybatis-spring</p>\n<p>报错Invalid value type for attribute 'factoryBeanObjectType': java.lang.String<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog.xnlemon.top/media/posts/4/985FF7A7EB9C11B1EA69DE765D7DFD9E.png\" alt=\"\" width=\"502\" height=\"141\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xs.png 640w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-sm.png 768w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-md.png 1024w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-lg.png 1366w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xl.png 1600w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-2xl.png 1920w\"></figure>\n<p>解决方案两个：</p>\n<p>1.改用boot3-starter</p>\n<p>2.pom.xml导入3.0.x版本</p>",
+            "image": "https://blog.xnlemon.top/media/posts/4/5FE79D6477539CD595EF77498D6212E8.jpg",
+            "author": {
+                "name": "XnLemon"
+            },
+            "tags": [
+                   "tech"
+            ],
+            "date_published": "2025-07-10T03:57:06+08:00",
+            "date_modified": "2025-07-10T04:06:23+08:00"
+        },
+        {
             "id": "https://blog.xnlemon.top/learning-part-1-crud.html",
             "url": "https://blog.xnlemon.top/learning-part-1-crud.html",
             "title": "Learning. Part 1 - CRUD",
             "summary": "由于大一养成了非常良好的搜索资料和信息，纯读文档也不嫌恶心的习惯（x 我就硬生生读了两天左右的各种文档，收获肯定是有的，但是我觉得不如跟着做一点小东西来的快，基础知识也有。而且发现 这一条路居然有好多视频可以看ToT 好爽ToT 当然了我觉得这种东西跨出的第一步应该就是一些简单的crud的项目，所以我同时看了两个，第一个就是一个简单的可以当作程序设计的那种课水上去的，那种图书馆系统（x&hellip;",
-            "content_html": "<p>由于大一养成了非常良好的搜索资料和信息，纯读文档也不嫌恶心的习惯（x</p>\n<p>我就硬生生读了两天左右的各种文档，收获肯定是有的，但是我觉得不如跟着做一点小东西来的快，基础知识也有。而且发现 这一条路居然有好多视频可以看ToT</p>\n<p>好爽ToT</p>\n<p>当然了我觉得这种东西跨出的第一步应该就是一些简单的crud的项目，所以我同时看了两个，第一个就是一个简单的可以当作程序设计的那种课水上去的，那种图书馆系统（x</p>\n<p>纯crud好吧 正经大果确实够味</p>\n<p>第二个就是比较大了 我也许是喜欢直接应用？准备跟着一个仿着b站做的视频平台项目进行一个springboot的实战 基础知识是会一些的 但是对于项目没有概念 应该会很麻烦 当然是慢慢推进 两头同时看看 可能我现在描述的东西还不够专业 但是基本上是稳步推进的 我大概会用一个暑假完成它（懂不懂5点睡觉阴间作息的含金量啊嗯）</p>\n<p>我在读了很多文章后感觉 个人对于生产环节的一些思考和见解是非常重要的 因为在实际开发过程中是真的要考虑需求与开发成本之类的事情 目前还对真正的项目没有认知 我希望学习以后也可以有一番属于自己的理解</p>\n<p>先这样！后续会继续补充我这第一Part的路线和成果&gt;w&lt;</p>\n<p>2025.06.17</p>\n<p>放假了之后有了很多正常的时间 目前在同时推进JVM的学习和SpringBoot框架和MyBatis的应用 SQL已经接触过一部分可以手写一些语句 可以满足crud的要求 所以感觉路线还是蛮正常的？基础很重要所以会偏重于JVM的学习..吧？TwT自己一个人好难啊 对自己要求还是低了TwT 我好笨 赶紧搓出来先把这Part结束了然后继续做</p>\n<p>2025.07.07</p>\n<p>今天用Mybatis+SpringBoot+Vue3+Element Plus 搓了一个前后端基本上实现了数据库crud的小玩意 明天总结一下自己今天遇到的问题 总之收获还是挺大的嗯嗯 也是初步了解了springboot框架和前后端的交互方式吧</p>\n<p>os:我说实话感觉一堆组件开堆像写osu的谱（</p>\n<p>2025.07.08</p>",
+            "content_html": "<p>由于大一养成了非常良好的搜索资料和信息，纯读文档也不嫌恶心的习惯（x</p>\n<p>我就硬生生读了两天左右的各种文档，收获肯定是有的，但是我觉得不如跟着做一点小东西来的快，基础知识也有。而且发现 这一条路居然有好多视频可以看ToT</p>\n<p>好爽ToT</p>\n<p>当然了我觉得这种东西跨出的第一步应该就是一些简单的crud的项目，所以我同时看了两个，第一个就是一个简单的可以当作程序设计的那种课水上去的，那种图书馆系统（x</p>\n<p>纯crud好吧 正经大果确实够味</p>\n<p>第二个就是比较大了 我也许是喜欢直接应用？准备跟着一个仿着b站做的视频平台项目进行一个springboot的实战 基础知识是会一些的 但是对于项目没有概念 应该会很麻烦 当然是慢慢推进 两头同时看看 可能我现在描述的东西还不够专业 但是基本上是稳步推进的 我大概会用一个暑假完成它（懂不懂5点睡觉阴间作息的含金量啊嗯）</p>\n<p>我在读了很多文章后感觉 个人对于生产环节的一些思考和见解是非常重要的 因为在实际开发过程中是真的要考虑需求与开发成本之类的事情 目前还对真正的项目没有认知 我希望学习以后也可以有一番属于自己的理解</p>\n<p>先这样！后续会继续补充我这第一Part的路线和成果&gt;w&lt;</p>\n<p>2025.06.17</p>\n<p>放假了之后有了很多正常的时间 目前在同时推进JVM的学习和SpringBoot框架和MyBatis的应用 SQL已经接触过一部分可以手写一些语句 可以满足crud的要求 所以感觉路线还是蛮正常的？基础很重要所以会偏重于JVM的学习..吧？TwT自己一个人好难啊 对自己要求还是低了TwT 我好笨 赶紧搓出来先把这Part结束了然后继续做</p>\n<p>2025.07.07</p>\n<p>今天用Mybatis+SpringBoot+Vue3+Element Plus 搓了一个前后端基本上实现了数据库crud的小玩意 明天总结一下自己今天遇到的问题 总之收获还是挺大的嗯嗯 也是初步了解了springboot框架和前后端的交互方式吧 但是写的一坨 一坨答辩端上来了 不过是开始 嗯嗯嗯（</p>\n<p>os:我说实话感觉前端一堆组件开堆像写osu的谱（</p>\n<p>2025.07.08</p>\n<p>这两天在初步跟着敲并理解 有知识积累的感觉 继续加油喵&gt;&lt;</p>\n<p>唉感觉自己走的每一步都比别人慢了一点点 纯自己活该 已经很不自信了</p>\n<p>2025.07.10</p>",
             "image": "https://blog.xnlemon.top/media/posts/3/96138542c945b9121b8cb1a692d5a6cc.jpg",
             "author": {
                 "name": "XnLemon"
@@ -25,7 +41,7 @@
                    "tech"
             ],
             "date_published": "2025-06-17T01:21:56+08:00",
-            "date_modified": "2025-07-08T03:57:41+08:00"
+            "date_modified": "2025-07-10T04:04:40+08:00"
         },
         {
             "id": "https://blog.xnlemon.top/test.html",

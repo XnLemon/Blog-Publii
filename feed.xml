@@ -3,12 +3,48 @@
     <title>XnLemon&#x27;s Blog</title>
     <link href="https://blog.xnlemon.top/feed.xml" rel="self" />
     <link href="https://blog.xnlemon.top" />
-    <updated>2025-07-08T03:57:41+08:00</updated>
+    <updated>2025-07-10T04:06:23+08:00</updated>
     <author>
         <name>XnLemon</name>
     </author>
     <id>https://blog.xnlemon.top</id>
 
+    <entry>
+        <title>Problems Encountered while Studying.</title>
+        <author>
+            <name>XnLemon</name>
+        </author>
+        <link href="https://blog.xnlemon.top/problems-encountered-while-studying.html"/>
+        <id>https://blog.xnlemon.top/problems-encountered-while-studying.html</id>
+        <media:content url="https://blog.xnlemon.top/media/posts/4/5FE79D6477539CD595EF77498D6212E8.jpg" medium="image" />
+            <category term="tech"/>
+
+        <updated>2025-07-10T03:57:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.xnlemon.top/media/posts/4/5FE79D6477539CD595EF77498D6212E8.jpg" alt="" />
+                    Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（ 这问题真的难绷 我使用的是3.5.5版本的&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.xnlemon.top/media/posts/4/5FE79D6477539CD595EF77498D6212E8.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--info">Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（</p>
+<div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1ivocniv81n">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1ivocniv81n">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</h3>
+<p>这问题真的难绷 我使用的是3.5.5版本的 可以发现里面有个2.1.2的mybatis-spring</p>
+<p>报错Invalid value type for attribute 'factoryBeanObjectType': java.lang.String<figure class="post__image"><img loading="lazy"  src="https://blog.xnlemon.top/media/posts/4/985FF7A7EB9C11B1EA69DE765D7DFD9E.png" alt="" width="502" height="141" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xs.png 640w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-sm.png 768w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-md.png 1024w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-lg.png 1366w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xl.png 1600w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-2xl.png 1920w"></figure>
+<p>解决方案两个：</p>
+<p>1.改用boot3-starter</p>
+<p>2.pom.xml导入3.0.x版本</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Learning. Part 1 - CRUD</title>
         <author>
@@ -41,9 +77,12 @@
 <p>2025.06.17</p>
 <p>放假了之后有了很多正常的时间 目前在同时推进JVM的学习和SpringBoot框架和MyBatis的应用 SQL已经接触过一部分可以手写一些语句 可以满足crud的要求 所以感觉路线还是蛮正常的？基础很重要所以会偏重于JVM的学习..吧？TwT自己一个人好难啊 对自己要求还是低了TwT 我好笨 赶紧搓出来先把这Part结束了然后继续做</p>
 <p>2025.07.07</p>
-<p>今天用Mybatis+SpringBoot+Vue3+Element Plus 搓了一个前后端基本上实现了数据库crud的小玩意 明天总结一下自己今天遇到的问题 总之收获还是挺大的嗯嗯 也是初步了解了springboot框架和前后端的交互方式吧</p>
-<p>os:我说实话感觉一堆组件开堆像写osu的谱（</p>
+<p>今天用Mybatis+SpringBoot+Vue3+Element Plus 搓了一个前后端基本上实现了数据库crud的小玩意 明天总结一下自己今天遇到的问题 总之收获还是挺大的嗯嗯 也是初步了解了springboot框架和前后端的交互方式吧 但是写的一坨 一坨答辩端上来了 不过是开始 嗯嗯嗯（</p>
+<p>os:我说实话感觉前端一堆组件开堆像写osu的谱（</p>
 <p>2025.07.08</p>
+<p>这两天在初步跟着敲并理解 有知识积累的感觉 继续加油喵&gt;&lt;</p>
+<p>唉感觉自己走的每一步都比别人慢了一点点 纯自己活该 已经很不自信了</p>
+<p>2025.07.10</p>
             ]]>
         </content>
     </entry>
