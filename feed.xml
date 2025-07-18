@@ -3,7 +3,7 @@
     <title>XnLemon&#x27;s Blog</title>
     <link href="https://blog.xnlemon.top/feed.xml" rel="self" />
     <link href="https://blog.xnlemon.top" />
-    <updated>2025-07-13T03:50:45+08:00</updated>
+    <updated>2025-07-18T17:19:20+08:00</updated>
     <author>
         <name>XnLemon</name>
     </author>
@@ -407,6 +407,8 @@ public static Object newProxyInstance(ClassLoader loader,
 <p>这两天在初步跟着敲并理解 有知识积累的感觉 继续加油喵&gt;&lt;</p>
 <p>唉感觉自己走的每一步都比别人慢了一点点 纯自己活该 已经很不自信了</p>
 <p>2025.07.10</p>
+<p>苍穹外卖(70/200) 感觉前面1-50的教学都是在教这一part的东西 与数据库交互 分析需求 <span class="md-plain">分析出业务规则 </span><span class="md-plain">设计接口 </span><span class="md-plain">梳理表之间的关系 实现代码 </span>明确springboot层级 感觉这一部分已经吸收的差不多了！</p>
+<p><img loading="lazy" src="file:///E:\QQDocument\3809296066\nt_qq\nt_data\Pic\2025-06\Ori\77b7d84826e6803b6c0f2544f2fa4881.png" data-is-external-image="true"></p>
             ]]>
         </content>
     </entry>
