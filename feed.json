@@ -43,22 +43,6 @@
             "date_modified": "2025-07-13T22:11:41+08:00"
         },
         {
-            "id": "https://blog.xnlemon.top/problems-encountered-while-studying.html",
-            "url": "https://blog.xnlemon.top/problems-encountered-while-studying.html",
-            "title": "Problems Encountered while Studying.",
-            "summary": "Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（ 这问题真的难绷 我使用的是3.5.5版本的&hellip;",
-            "content_html": "<p class=\"msg msg--info\">Info:本文旨在总结我个人在初学习时遇到的某些问题 纯笨蛋的问题我也得写 希望可以帮到在我之后的初学者少浪费时间（</p>\n<div class=\"post__toc\">\n<h3>目录</h3>\n<ul>\n<li><a href=\"#mcetoc_1ivocniv81n\">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</a></li>\n</ul>\n</div>\n<h3 id=\"mcetoc_1ivocniv81n\">P1.Mybatis-plus-boot-starter问题(Invalid value type for attribute 'factoryBeanObjectType': java.lang.String)</h3>\n<p>这问题真的难绷 我使用的是3.5.5版本的 可以发现里面有个2.1.2的mybatis-spring</p>\n<p>报错Invalid value type for attribute 'factoryBeanObjectType': java.lang.String<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://blog.xnlemon.top/media/posts/4/985FF7A7EB9C11B1EA69DE765D7DFD9E.png\" alt=\"\" width=\"502\" height=\"141\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xs.png 640w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-sm.png 768w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-md.png 1024w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-lg.png 1366w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-xl.png 1600w ,https://blog.xnlemon.top/media/posts/4/responsive/985FF7A7EB9C11B1EA69DE765D7DFD9E-2xl.png 1920w\"></figure>\n<p>解决方案两个：</p>\n<p>1.改用boot3-starter</p>\n<p>2.pom.xml导入3.0.x版本</p>",
-            "image": "https://blog.xnlemon.top/media/posts/4/5FE79D6477539CD595EF77498D6212E8.jpg",
-            "author": {
-                "name": "XnLemon"
-            },
-            "tags": [
-                   "tech"
-            ],
-            "date_published": "2025-07-10T03:57:06+08:00",
-            "date_modified": "2025-07-13T03:16:11+08:00"
-        },
-        {
             "id": "https://blog.xnlemon.top/learning-part-1-crud.html",
             "url": "https://blog.xnlemon.top/learning-part-1-crud.html",
             "title": "Learning. Part 1 - CRUD",
